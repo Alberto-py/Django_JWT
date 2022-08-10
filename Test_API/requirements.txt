@@ -5,3 +5,4 @@ PyJWT
 django-cors-headers
 mysqlclient
 django-crispy-forms
+django-colorfield
